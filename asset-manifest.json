@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Blog-using-react/static/css/main.deb82e0c.css",
+    "main.js": "/Blog-using-react/static/js/main.87918195.js",
+    "static/media/technology.jpg": "/Blog-using-react/static/media/technology.dcb56a1e24f3bb311fab.jpg",
+    "static/media/food-image.jpg": "/Blog-using-react/static/media/food-image.610118d8006513d78f9b.jpg",
+    "static/media/news.jpg": "/Blog-using-react/static/media/news.3d4a4de1c1201c526c3a.jpg",
+    "static/media/movie.jpg": "/Blog-using-react/static/media/movie.3b17446e8131af17d993.jpg",
+    "static/media/689-800x500.jpg": "/Blog-using-react/static/media/689-800x500.f3e0e9badd8c445cdab6.jpg",
+    "static/media/beauty.jpg": "/Blog-using-react/static/media/beauty.51424b6f534808c8981e.jpg",
+    "static/media/face.png": "/Blog-using-react/static/media/face.6a3f2e3a3f4dd042636d.png",
+    "index.html": "/Blog-using-react/index.html",
+    "static/media/arrow.svg": "/Blog-using-react/static/media/arrow.96127461dbc643d65bf3657380499f0d.svg",
+    "main.deb82e0c.css.map": "/Blog-using-react/static/css/main.deb82e0c.css.map",
+    "main.87918195.js.map": "/Blog-using-react/static/js/main.87918195.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deb82e0c.css",
+    "static/js/main.87918195.js"
+  ]
+}
